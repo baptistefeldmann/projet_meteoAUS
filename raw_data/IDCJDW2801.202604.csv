@@ -1,0 +1,20 @@
+"Daily Weather Observations for Canberra, Australian Capital Territory for April 2026"
+"Prepared at 05:36 UTC on Sunday 12 April 2026   IDCJDW2801.202604"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations from Canberra Airport."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Observations were drawn from Canberra Airport {station 070351}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2026-04-1,6.3,26.7,0,,,,,,12.8,87,,SE,9,1023.9,25.9,32,,NW,17,1022.1
+,2026-04-2,9.5,,0,,,,,,14.5,85,,N,6,1025.1,27.4,32,,NW,19,1021.8
+,2026-04-3,7.6,25.0,0,,,E,41,16:58,13.6,88,, ,Calm,1023.9,24.4,38,,NE,13,1022.0
+,2026-04-4,11.6,17.3,0,,,ENE,28,17:12,13.2,81,8,NE,9,1027.2,15.8,67,8,NE,11,1025.9
+,2026-04-5,5.2,20.0,0,,,ENE,30,17:52,13.8,75,8,SSE,6,1027.8,17.6,57,3,NNE,11,1023.8
+,2026-04-6,4.6,17.3,0,,,NW,20,21:15,12.0,86,8,SSW,9,1021.5,16.8,81,8,W,9,1016.8
+,2026-04-7,6.9,25.2,4.0,,,WNW,48,13:12,17.2,81,,NNW,9,1013.7,24.3,36,,WNW,30,1011.1
+,2026-04-8,7.9,24.2,0,,,NNW,39,13:47,16.1,72,,E,4,1017.4,23.8,25,,W,24,1015.3
+,2026-04-9,7.9,26.6,0,,,WSW,59,18:53,18.0,51,, ,Calm,1018.9,25.2,44,7,NW,26,1015.0
+,2026-04-10,15.5,21.7,7.6,,,NW,63,14:23,18.1,80,8,NW,39,1012.8,20.5,65,8,NW,43,1009.8
+,2026-04-11,8.6,16.1,0.2,,,WNW,59,11:21,13.6,55,1,WNW,28,1010.5,14.7,40,1,WNW,26,1008.9
+,2026-04-12,6.1,,0,,,,,,12.0,51,,WNW,30,1010.1,12.5,48,1,WNW,33,1010.8
