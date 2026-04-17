@@ -9,4 +9,5 @@ dependencies:
   - scikit-learn==1.8.0
   - xgboost==3.2.0
   - ipykernel==7.2.0
+  - requests==2.33.1
 name: env_weather
