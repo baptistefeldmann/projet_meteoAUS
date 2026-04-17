@@ -1,5 +1,5 @@
 "Daily Weather Observations for Canberra, Australian Capital Territory for April 2026"
-"Prepared at 05:36 UTC on Sunday 12 April 2026   IDCJDW2801.202604"
+"Prepared at 05:36 UTC on Friday 17 April 2026   IDCJDW2801.202604"
 "Copyright 2003 Commonwealth Bureau of Meteorology"
 "Observations from Canberra Airport."
 "Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
@@ -17,4 +17,9 @@
 ,2026-04-9,7.9,26.6,0,,,WSW,59,18:53,18.0,51,, ,Calm,1018.9,25.2,44,7,NW,26,1015.0
 ,2026-04-10,15.5,21.7,7.6,,,NW,63,14:23,18.1,80,8,NW,39,1012.8,20.5,65,8,NW,43,1009.8
 ,2026-04-11,8.6,16.1,0.2,,,WNW,59,11:21,13.6,55,1,WNW,28,1010.5,14.7,40,1,WNW,26,1008.9
-,2026-04-12,6.1,,0,,,,,,12.0,51,,WNW,30,1010.1,12.5,48,1,WNW,33,1010.8
+,2026-04-12,6.1,15.1,0,,,WNW,54,13:06,12.0,51,,WNW,30,1010.1,12.5,48,1,WNW,33,1010.8
+,2026-04-13,2.9,19.1,0,,,NNW,37,16:04,12.5,62,,W,11,1018.9,18.9,49,,NNW,26,1017.4
+,2026-04-14,0.1,22.1,0,,,NNW,33,15:40,7.4,100,8,N,9,1022.4,21.2,38,,NNW,15,1018.1
+,2026-04-15,1.8,21.8,0,,,N,30,14:09,12.1,77,,E,4,1021.0,21.0,45,,NNW,19,1017.5
+,2026-04-16,2.8,22.2,0,,,NW,44,15:45,10.0,93,2,SSW,9,1019.8,21.0,46,2,NNW,31,1015.3
+,2026-04-17,3.8,,0,,,,,,16.8,59,,NNW,19,1013.7,19.1,41,,NW,33,1012.0
